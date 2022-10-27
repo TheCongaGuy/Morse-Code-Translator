@@ -3,6 +3,16 @@
 #include <iostream>
 #include <string>
 
+/*******************************************************************************
+ * Programmer: Drew Evensen		                                               *
+ * Class: CptS 122; Lab Section 7                                              *
+ * Programming Assignment: 6	                                               *
+ * Date: 10/28/22                                                              *
+ *                                                                             *
+ * Description: This program converts a given text file to morse code		   *
+ *				using a Binary Search Tree									   *
+ ******************************************************************************/
+
 class MorseCode
 {
 public:
